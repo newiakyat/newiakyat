@@ -1,3 +1,6 @@
+<img align="center" width="100%" alt="" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/cdr.gif" />
+
+
 <h1 align="center">Hi 👋, I'm Kai Wen</h1>
 <h3 align="center">An undergraduate studying Data Science and Artificial Intelligence at NTU</h3>
 
