@@ -4,10 +4,13 @@
 <h1 align="center">Hi 👋, I'm Kai Wen</h1>
 <h3 align="center">An undergraduate studying Data Science and Artificial Intelligence at NTU</h3>
 
-## 🚀 About Me
-- Love being active and playing sports, going to the gym
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+
+## ⚡ A Few Quick Facts:
+:running_man:	 Love being active and playing sports, going to the gym
 - Interested in exploring the field of Machine Learning/Artificial Intelligence
 - Believes in a Work Hard, Play Hard mentality
+- Looking forward to participate in Hackathons and data related projects!
 
 ## 🛠 Skills
 - 
