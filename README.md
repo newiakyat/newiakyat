@@ -6,7 +6,6 @@
 
 
 ## ⚡ Fun Facts About Me:
-
 <img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 - 🏃‍♂️	Love being active and playing sports, going to the gym
@@ -14,6 +13,8 @@
 - 💪 Believes in a Work Hard, Play Hard mentality
 - 😄 Eager to collaborate and participate in Hackathons and data related projects!
 - 🦴 Has a broken collarbone
+  
+
   
 ##  🧮  Projects:
 
