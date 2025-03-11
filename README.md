@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kai Wen</h1>
 <h3 align="center">An undergraduate studying Data Science and Artificial Intelligence at NTU</h3>
 
+## 🚀 About Me
+- I love being active and not sitting at my desk coding
+- Interested in exploring the field of Machine Learning/Artificial Intelligence
+- 
+
+## 🛠 Skills
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tay-kai-wen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tay-kai-wen" height="30" width="40" /></a>
