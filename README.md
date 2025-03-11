@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kai Wen</h1>
 <h3 align="center">An undergraduate studying Data Science and Artificial Intelligence at NTU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newiakyat&label=Profile%20views&color=0e75b6&style=flat" alt="newiakyat" /> </p>
-
 - 📫 How to reach me **https://www.linkedin.com/in/tay-kai-wen/ or taykaiwen2013@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
